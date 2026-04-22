@@ -115,6 +115,9 @@ Market sentiment has a significant impact on trader performance and behavior. Ad
 
 - assessment.ipynb → Main notebook  
 - README.md → Project documentation  
+- summary.md → Summary  
+- fear_greed_index.csv  
+- historical_data.csv  
 
 ---
 
